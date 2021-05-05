@@ -115,6 +115,8 @@ public class EmployeeDetails extends GenericServlet {
 			        System.out.println("SALARY   : "+sal);
 			        System.out.println("HIREDATE : "+d);
 			        System.out.println("---------------------------");
+			        System.out.println("-----------------------------");
+			        System.out.println("------------------*-----------");
 			        
 			    }pw.println("</table>");
 		} catch (SQLException e) {
